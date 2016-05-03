@@ -1,0 +1,13 @@
+<div class="sels-box">
+  <div class="sels-top">
+    订单
+  </div>
+  <div class="sels-con">
+    <div>进行中</div>
+    <div>已结束</div>
+    <p></p>
+  </div>
+  <div class="sels-tom">
+
+  </div>
+</div>

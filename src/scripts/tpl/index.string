@@ -1,0 +1,13 @@
+<div class="m-index">
+  <div class="m-index-body">
+
+  </div>
+  <footer>
+    <ul>
+      <li class="onmouseOver" action-type="tap.switch" data-tag="chance"><i class="yo-ico">&#xe6d0;</i><p>发现</p></li>
+      <li action-type="tap.switch" data-tag="message"><i class="yo-ico">&#xe89b;</i><p>订单</p></li>
+      <li action-type="tap.switch" data-tag="search"><i class="yo-ico">&#xe6c6;</i><p>消息</p></li>
+      <li action-type="tap.switch" data-tag="my"><i class="yo-ico">&#xe609;</i><p>我</p></li>
+    </ul>
+  </footer>
+</div>

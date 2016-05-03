@@ -1,0 +1,108 @@
+<div class="chance-box">
+  <div class="header-box">
+    <div>
+      <ul class="posts">
+        <li data-tag="chance" id="fbn">
+          <div><img src="/xiaozhu/image/jing.png"></div>
+          <div>城市或目的地</div>
+        </li>
+        <li>
+        <div><img src="/xiaozhu/image/shu.png"></div>
+        <div>入住离开日期</div>
+        </li>
+      </ul>
+    </div>
+    <div action-type="show.xiao">搜索小猪短租</div>
+  </div>
+  <div class="sell-box" id="selld" spa-widget="scroll" >
+    <div class="scorr">
+        <div class="nav">
+          <div class="swiper-container" id="index-swiper">
+              <div class="swiper-wrapper" >
+                <div class="swiper-slide" spa-widget="scroll">
+                  <div>
+                    <img src="/xiaozhu/image/toude.png">
+                    <img src="/xiaozhu/image/toude.png">
+                    <img src="/xiaozhu/image/toude.png">
+                  </div>
+                </div>
+                <div class="swiper-slide"><img src="/xiaozhu/image/toude.png"></div>
+                <div class="swiper-slide"><img src="/xiaozhu/image/toude.png"></div>
+              </div>
+          </div>
+        </div>
+        <div class="sell">
+          <div><img src="/xiaozhu/image/lt2.png"></div>
+          <div><img src="/xiaozhu/image/lt3.png"></div>
+          <div class="pero">
+            <div>我_在回忆里等你</div>
+            <div class="ops">
+              <div><img src="/xiaozhu/image/ren.png"></div>
+            </div>
+            <div>我是幸福的小猪房东</div>
+            <div>每次和不同的房客接触，聊天，都会有许许多多的收获，结交朋友的同时增长只是，开阔眼界，这是我作为房东收到的最大回报。</div>
+        </div>
+      </div>
+      <div class="sell">
+        <div><img src="/xiaozhu/image/lt2.png"></div>
+        <div><img src="/xiaozhu/image/lt3.png"></div>
+        <div class="pero">
+          <div>我_在回忆里等你</div>
+          <div class="ops">
+            <div><img src="/xiaozhu/image/ren.png"></div>
+          </div>
+          <div>我是幸福的小猪房东</div>
+          <div>每次和不同的房客接触，聊天，都会有许许多多的收获，结交朋友的同时增长只是，开阔眼界，这是我作为房东收到的最大回报。</div>
+        </div>
+      </div>
+      <div class="sell">
+        <div><img src="/xiaozhu/image/lt2.png"></div>
+        <div><img src="/xiaozhu/image/lt3.png"></div>
+        <div class="pero">
+          <div>我_在回忆里等你</div>
+          <div class="ops">
+            <div><img src="/xiaozhu/image/ren.png"></div>
+          </div>
+          <div>我是幸福的小猪房东</div>
+          <div>每次和不同的房客接触，聊天，都会有许许多多的收获，结交朋友的同时增长只是，开阔眼界，这是我作为房东收到的最大回报。</div>
+        </div>
+      </div>
+      <div class="sell">
+        <div><img src="/xiaozhu/image/lt2.png"></div>
+        <div><img src="/xiaozhu/image/lt3.png"></div>
+        <div class="pero">
+          <div>我_在回忆里等你</div>
+          <div class="ops">
+            <div><img src="/xiaozhu/image/ren.png"></div>
+          </div>
+          <div>我是幸福的小猪房东</div>
+          <div>每次和不同的房客接触，聊天，都会有许许多多的收获，结交朋友的同时增长只是，开阔眼界，这是我作为房东收到的最大回报。</div>
+        </div>
+      </div>
+      <div class="sell">
+        <div><img src="/xiaozhu/image/lt2.png"></div>
+        <div><img src="/xiaozhu/image/lt3.png"></div>
+        <div class="pero">
+          <div>我_在回忆里等你</div>
+          <div class="ops">
+            <div><img src="/xiaozhu/image/ren.png"></div>
+          </div>
+          <div>我是幸福的小猪房东</div>
+          <div>每次和不同的房客接触，聊天，都会有许许多多的收获，结交朋友的同时增长只是，开阔眼界，这是我作为房东收到的最大回报。</div>
+        </div>
+      </div>
+      <div class="sell">
+        <div><img src="/xiaozhu/image/lt2.png"></div>
+        <div><img src="/xiaozhu/image/lt3.png"></div>
+        <div class="pero">
+          <div>我_在回忆里等你</div>
+          <div class="ops">
+            <div><img src="/xiaozhu/image/ren.png"></div>
+          </div>
+          <div>我是幸福的小猪房东</div>
+          <div>每次和不同的房客接触，聊天，都会有许许多多的收获，结交朋友的同时增长只是，开阔眼界，这是我作为房东收到的最大回报。</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
